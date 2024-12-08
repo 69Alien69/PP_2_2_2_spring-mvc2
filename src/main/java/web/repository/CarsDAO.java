@@ -7,5 +7,5 @@ import java.util.List;
 
 @Repository
 public interface CarsDAO {
-    public List<Car> getCars();
+    List<Car> getCars();
 }
